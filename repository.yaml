@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
 name: MIXTILE Home Assistant Add-ons
-url: 'https://github.com/focalcrest/MIXTILE_Addons'
+url: 'https://github.com/mixtile-rockchip/MIXTILE_Addons'
 maintainer: Awesome Maintainer <daniel@focalcrest.com>
