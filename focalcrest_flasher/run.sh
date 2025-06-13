@@ -57,7 +57,7 @@ fi
 # 开始烧录
 universal-silabs-flasher \
     ${verbose} \
-    --device /dev/ttyCH343USB1 \
+    --device $(bashio::config 'device') \
     flash \
     --firmware image.gbl && {
         echo -e "${GREEN}Update Success${NC}"
